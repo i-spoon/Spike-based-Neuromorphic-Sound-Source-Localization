@@ -1,9 +1,11 @@
-# TCJA-SNN: Temporal-Channel Joint Attention for Spiking Neural Networks [TNNLS 2024]
+#  Spike-based-Neuromorphic-Sound-Source-Localization
 
 <p align="center" float="center">
-  <img src="(https://github.com/i-spoon/Spike-based-Neuromorphic-Sound-Source-Localization/blob/main/Spike-based%20SSL%20model.png)" width=60%/>
+  <img src="https://github.com/i-spoon/Spike-based-Neuromorphic-Sound-Source-Localization/blob/main/Spike-based%20SSL%20model.png" width=60%/>
 </p>
-
+<p align="center" float="center">
+  <img src="https://github.com/i-spoon/Spike-based-Neuromorphic-Sound-Source-Localization/blob/main/MAA.png" width=60%/>
+</p>
 ## How to Run
 
 First clone the repository.
