@@ -1,17 +1,18 @@
 #  Spike-based-Neuromorphic-Sound-Source-Localization
 
 <p align="center" float="center">
-  <img src="https://github.com/i-spoon/Spike-based-Neuromorphic-Sound-Source-Localization/blob/main/Spike-based%20SSL%20model.png" width=60%/>
+  <img src="https://github.com/i-spoon/Spike-based-Neuromorphic-Sound-Source-Localization/blob/main/Spike-based%20SSL%20model.png" width=80%/>
 </p>
+
 <p align="center" float="center">
-  <img src="https://github.com/i-spoon/Spike-based-Neuromorphic-Sound-Source-Localization/blob/main/MAA.png" width=60%/>
+  <img src="https://github.com/i-spoon/Spike-based-Neuromorphic-Sound-Source-Localization/blob/main/MAA.png" width=80%/>
 </p>
 ## How to Run
 
 First clone the repository.
 
 ```shell
-git clone https://github.com/ridgerchu/TCJA
+git clone https://github.com/i-spoon/Spike-based-Neuromorphic-Sound-Source-Localization.git
 cd src
 pip install -r requirements.txt
 ```
