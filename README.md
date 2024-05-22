@@ -1,4 +1,4 @@
-#  Spike-based Neuromorphic Model for Robust Sound Source Localization
+#  Spike-based Neuromorphic Model for Sound Source Localization
 
 <p align="center" float="center">
   <img src="https://github.com/i-spoon/Spike-based-Neuromorphic-Sound-Source-Localization/blob/main/Spike-based%20SSL%20model.png" width=80%/>
